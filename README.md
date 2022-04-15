@@ -1,1 +1,1 @@
-This readme contains my c commands
+readme on operators
