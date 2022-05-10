@@ -61,4 +61,4 @@ while (str[i] != '\0')
 i++;
 return (i);
 }
-#endif /* MAIN_H_ */01~
+#endif /* MAIN_H_ */
